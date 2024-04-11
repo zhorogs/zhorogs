@@ -8,4 +8,4 @@ zhorogs/zhorogs is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,npm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,npm,git)](https://skillicons.dev)
