@@ -1,9 +1,9 @@
-<p align="center">
+<ul align="center">
 - 👋 Hi, I’m Zhoro Slavchev.
 - 👀 I’m interested in coding ...
 - 🌱 I’m currently learning JavaScript and Java. 
 - 📫 How to reach me: zgslavchev@gmail.com
-</p>
+</ul>
 
 <!---
 zhorogs/zhorogs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
