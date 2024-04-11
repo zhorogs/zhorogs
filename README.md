@@ -1,8 +1,8 @@
 <ul align="center">
-- 👋 Hi, I’m Zhoro Slavchev.
-- 👀 I’m interested in coding ...
-- 🌱 I’m currently learning JavaScript and Java. 
-- 📫 How to reach me: zgslavchev@gmail.com
+<li>- 👋 Hi, I’m Zhoro Slavchev.</li>
+<li>- 👀 I’m interested in coding ...</li>
+<li>- 🌱 I’m currently learning JavaScript and Java.</li>
+<li>- 📫 How to reach me: zgslavchev@gmail.com</li>
 </ul>
 
 <!---
