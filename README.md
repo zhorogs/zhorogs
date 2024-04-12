@@ -12,6 +12,6 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,git,nodejs,express,npm,postman,grafana,github,linux,mysql,vscode&perline=3" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,git,nodejs,express,npm,postman,grafana,github,linux,mysql,vscode&perline=10" />
   </a>
 </p>
